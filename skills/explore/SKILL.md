@@ -15,4 +15,3 @@ The general flow you should follow for this exploration is:
 6. Once we have picked a strategy please validate it. Do more in depth research to make sure that it is viable, the assumptions we are making are correct and it will work. Present the findings of this research as confirmation with sources (references to files, websites, other code bases, etc).
 
 
-What I want to implement is: 
